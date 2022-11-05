@@ -1,0 +1,24 @@
+.container {
+    background-color: #bbe4e9;
+}
+
+.card-index h1 {
+    padding: 0 10%;
+}
+
+.card img {
+    max-width: 75px;
+    max-height: 80px;
+    border-radius: 6px;
+}
+
+.card-item {
+    border-radius: 0px !important;
+    border: 0px;
+    border-bottom: 2px solid #53a8b6;
+
+}
+
+.card-item:last-child {
+    border-bottom: 0px;
+}

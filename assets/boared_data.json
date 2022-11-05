@@ -1,0 +1,92 @@
+leaderBoardData = [
+  {
+    "email_address": "alon.gruber@taboola.com",
+    "SUM of Score": "535 / 115",
+    "sum": 535
+  },
+  {
+    "email_address": "andrey.g@taboola.com",
+    "SUM of Score": "470 / 115",
+    "sum": 470
+  },
+  {
+    "email_address": "ben.shaharizad@taboola.com",
+    "SUM of Score": "130 / 115",
+    "sum": 130
+  },
+  {
+    "email_address": "eyal.c@taboola.com",
+    "SUM of Score": "105 / 115",
+    "sum": 105
+  },
+  {
+    "email_address": "gal.shelach@taboola.com",
+    "SUM of Score": "330 / 115",
+    "sum": 330
+  },
+  {
+    "email_address": "limor.m@taboola.com",
+    "SUM of Score": "200 / 115",
+    "sum": 200
+  },
+  {
+    "email_address": "lior.c@taboola.com",
+    "SUM of Score": "495 / 115",
+    "sum": 495
+  },
+  {
+    "email_address": "michael.d@taboola.com",
+    "SUM of Score": "90 / 115",
+    "sum": 90
+  },
+  {
+    "email_address": "minka.b@taboola.com",
+    "SUM of Score": "310 / 115",
+    "sum": 310
+  },
+  {
+    "email_address": "rami.p@taboola.com",
+    "SUM of Score": "160 / 115",
+    "sum": 160
+  },
+  {
+    "email_address": "rami.s@taboola.com",
+    "SUM of Score": "85 / 115",
+    "sum": 85
+  },
+  {
+    "email_address": "shahar.l@taboola.com",
+    "SUM of Score": "120 / 115",
+    "sum": 120
+  },
+  {
+    "email_address": "shelli.g@taboola.com",
+    "SUM of Score": "195 / 115",
+    "sum": 195
+  },
+  {
+    "email_address": "shirel.h@taboola.com",
+    "SUM of Score": "535 / 115",
+    "sum": 535
+  },
+  {
+    "email_address": "shlomi.s@taboola.com",
+    "SUM of Score": "400 / 115",
+    "sum": 400
+  },
+  {
+    "email_address": "tal.s@taboola.com",
+    "SUM of Score": "530 / 115",
+    "sum": 530
+  },
+  {
+    "email_address": "yehuda.s@taboola.com",
+    "SUM of Score": "415 / 115",
+    "sum": 415
+  },
+  {
+    "email_address": "yos.i@taboola.com",
+    "SUM of Score": "620 / 115",
+    "sum": 620
+  }
+]
